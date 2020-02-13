@@ -36,8 +36,8 @@
       "category": "public.app-category.utilities"
     },
     "linux": {
-      "target": "apk",
-      "icon": "public/icon.png"
+      "target": "AppImage",
+      "icon": "public/logo512.png"
     },
     "win": {
       "target": "msi"
